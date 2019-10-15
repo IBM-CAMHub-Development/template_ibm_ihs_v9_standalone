@@ -93,7 +93,6 @@ variable "ibm_stack_name" {
   description = "A unique stack name."
 }
 
-
 ##### Environment variables #####
 #Variable : ibm_im_repo
 variable "ibm_im_repo" {
