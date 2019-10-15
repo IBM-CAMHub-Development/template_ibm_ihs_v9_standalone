@@ -312,7 +312,6 @@ variable "runtime_domain" {
 ##### Resource : IHSNode01
 #########################################################
 
-
 #Parameter : IHSNode01_subnet_name
 data "aws_subnet" "IHSNode01_selected_subnet" {
   filter {
